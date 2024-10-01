@@ -10,7 +10,7 @@ A repository for various introductory tutorials on deep learning for chemistry.
 
 There is often a gap between code written in classes (computer science, chemistry, etc.) and
 code required to conduct research. Most classes now support Jupyter Notebooks or Google Colab
-enviornments that have simple install, setup, and often require running only small blocks of code.
+environments that have simple install, setup, and often require running only small blocks of code.
 While very useful and didactic, we find there is also a need to explain how students 
 can structure repositories for new research projects that enable them to organize
 experiments, try different model settings, and move quickly.
@@ -61,7 +61,7 @@ We use data available for download via the [Therapeutics Data Commons (TDC)](htt
 
 ### 02_prop_pred_GNN
 
-This repository repeats the above task but utilizes graph neural networks that operaate on molecular graphs directly, rather than vectorized fingerprints.
+This repository repeats the above task but utilizes graph neural networks that operate on molecular graphs directly, rather than vectorized fingerprints.
 
 Some foundational papers in graph neural network development for property prediction are [Gilmer *et al.* (2017)](https://proceedings.mlr.press/v70/gilmer17a.html) and [Duvenaud *et al.* (2015)](https://proceedings.neurips.cc/paper/2015/hash/f9be311e65d81a9ad8150a60844bb94c-Abstract.html). 
 
